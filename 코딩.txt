@@ -1,0 +1,12 @@
+<strong></strong?> 진한글씨
+<u></u> underline 밑줄
+<h1></h1>~<h6></h6> heading 글씨크기
+<br> 줄바꿈
+<p></p> 단락
+<img src=""width="100%"> 특정 이미지 추가
+tap 밀어들기
+<ul> unordered list 부모
+<ol> ordered list
+<li> list 자식 
+
+
